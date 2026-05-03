@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# REPO_URL https://github.com/YOUR_USERNAME/my-app
+# REPO_URL https://github.com/tripp-ix/my-app
 
 npx create-react-app my-app
 cd my-app
